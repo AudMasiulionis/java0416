@@ -19,8 +19,8 @@ public class Main {
         myMethod("dvejetas");
     }
 
-    static int myMethod(int x){
-        switch (x){
+    static int myMethod(int x) {
+        switch (x) {
             case 1:
                 return 1;
             case 2:
@@ -32,8 +32,8 @@ public class Main {
         }
     }
 
-    static void myMethod(String x){
-        switch (x){
+    static void myMethod(String x) {
+        switch (x) {
             case "vienetas1":
                 System.out.println("1");
             case "dvejetas":
@@ -47,7 +47,6 @@ public class Main {
                 break;
         }
     }
-
 
 
 }
