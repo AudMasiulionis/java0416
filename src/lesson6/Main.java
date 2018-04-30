@@ -2,10 +2,14 @@ package lesson6;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {//istrauk
+       // CoffeeMachine c = new CoffeeMachine();
 
-        Point point1 = new Point(1,2);
-        Point point2 = new Point(1,2);
+
+        //issaugok
+
+
+
 
     }
 
