@@ -3,6 +3,10 @@ package lesson7;
 public class Main {
     public static void main(String[] args) {
         Person p = new Person("John");
+        Person p1 = new Person("John");
+
+
+
         String t = p.toString();
         System.out.println(t);
 
